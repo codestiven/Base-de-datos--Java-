@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\cosas\tareas\3er cuatrimestre\Programacion 1\tarea 7\.metadata\.plugins\org.eclipse.jdt.core
+1026132108.index
+795246777.index
+3632384654.index
+464959692.index
